@@ -242,8 +242,8 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
-  top: 360px;
+  position: relative;
+  bottom: 50px;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -283,7 +283,7 @@ section {
 }
 
 #servicePicture {
-  border-radius: 2vh;
+  border-radius: 0vh;
 }
 
 #hero2,
