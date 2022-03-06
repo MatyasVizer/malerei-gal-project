@@ -10,6 +10,7 @@ body {
   position: relative;
   padding-top: 4em;
   margin-top: -4em;
+  font-size: larger;
 }
 
 h1,
@@ -19,6 +20,8 @@ h4,
 h5,
 h6 {
   font-weight: 600;
+  font-size: x-large;
+
 }
 
 p {
@@ -289,7 +292,7 @@ section {
 }
 
 #servicePicture {
-  border-radius: 0vh;
+  border-radius: 2vh;
 }
 
 #hero2,
